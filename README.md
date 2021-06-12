@@ -18,10 +18,9 @@ Open terminal
 Windows:
 
 Download python [here](https://www.python.org/downloads/)
-1. ```Download [https://github.com/nOOBIE-nOOBIE/Instagram-Follower-Scraper/archive/master.zip](https://github.com/nOOBIE-nOOBIE/Instagram-Follower-Scraper/archive/master.zip) ```
-2. ``` Extract to a folder```
-3. ``` Open cmd and navigate to the folder you just put the extractor on.```
-4. ``` pip install -r requirements.txt ```
+1. ``` git clone  https://github.com/adithya2000/256300_MiniProject```
+2. ``` Open cmd and navigate to the folder you just put the extractor on.```
+3. ``` pip install -r requirements.txt ```
 
 ## Usage example
 

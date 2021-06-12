@@ -1,0 +1,4 @@
+user_id,username,fullname,is_verified,is_private,media_count,follower_count,following_count,bio,website,emails,last_activity,scrape_of,scraped_at
+48500233219,arvindkashyap451,Arvind Kashyap,False,False,1,1,18,,,[],2021-06-12 18:49:44,instagram,2021-06-12 18:48:40.680764
+48331129881,anuj6646yadav,anuj yadav,False,False,0,1,5,,,[],2021-06-12 09:49:32,instagram,2021-06-12 18:48:40.680764
+48348648058,ryan_ardhana102,Ryan ardhana,False,False,0,3,2,,,[],2021-06-12 09:49:32,instagram,2021-06-12 18:48:40.680764
